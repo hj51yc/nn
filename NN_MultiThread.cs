@@ -6,6 +6,12 @@ using System.Threading.Tasks;
 using System.IO;
 using System.Threading;
 using System.Diagnostics;
+/**
+* @author: huangjin (Jeff)
+* @email: hj51yc@gmail.com
+* Single hidden layer nerual network
+**/
+
 namespace NN_BP
 {
     class NN_MultiThread
